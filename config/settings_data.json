@@ -126,7 +126,9 @@
     "cart_type": "notification",
     "show_vendor": false,
     "show_cart_note": false,
-    "cart_drawer_collection": "",
+    "cart_drawer_collection": "baked-goods-selection",
+    "checkout_header_image": "shopify:\/\/shop_images\/Jaris-background.jpg",
+    "checkout_body_background_image": "shopify:\/\/shop_images\/Jaris-background.jpg",
     "sections": {
       "main-password-header": {
         "type": "main-password-header",
