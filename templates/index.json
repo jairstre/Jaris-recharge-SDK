@@ -6,17 +6,17 @@
         "slide-0": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/maris-hero.jpg",
-            "heading": "Nordic Kelp Eye Cream",
+            "image": "shopify:\/\/shop_images\/Jaris-background.jpg",
+            "heading": "Welcome to the Jaris store",
             "heading_size": "h0",
-            "subheading": "Made with premium ingredients sourced from the pristine waters of the North Atlantic, including nutrient-rich kelp, this cream deeply nourishes and hydrates the delicate skin around the eyes.",
-            "button_label": "Shop now",
+            "subheading": "Welcome to Jaris store, where sweet delights await! Indulge your cravings with our delectable range of pastries, crafted with love and expertise. Explore our online bakery and treat yourself to a symphony of flavors. Let's make every moment sweeter together!",
+            "button_label": "Get Jaris Pasteries Now",
             "link": "shopify:\/\/products\/eye-cream-nordic-kelp-30-ml",
             "button_style_secondary": true,
             "box_align": "middle-left",
             "show_text_box": false,
-            "text_alignment": "left",
-            "image_overlay_opacity": 10,
+            "text_alignment": "center",
+            "image_overlay_opacity": 40,
             "color_scheme": "inverse",
             "text_alignment_mobile": "left"
           }
@@ -93,7 +93,6 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/maris-highlight.jpg",
         "height": "medium",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -112,7 +111,6 @@
         "template--18088256799001__68c593f3-59da-4b1d-ab49-cdc999b38044-16808268265eb4871d-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/maris-highlight2.jpg"
           }
         },
         "template--18088256799001__68c593f3-59da-4b1d-ab49-cdc999b38044-16808268265eb4871d-1": {

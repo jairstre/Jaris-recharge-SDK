@@ -19,6 +19,9 @@
       "block_order": [
         "announcement-bar-0"
       ],
+      "custom_css": [
+        "h2 {font-size: 32px;}"
+      ],
       "settings": {
       }
     },
