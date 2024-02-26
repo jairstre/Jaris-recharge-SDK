@@ -27,6 +27,9 @@
     },
     "header": {
       "type": "header",
+      "custom_css": [
+        "h2 {color: #CEA68D; }"
+      ],
       "settings": {
         "color_scheme": "inverse",
         "logo_position": "middle-left",
